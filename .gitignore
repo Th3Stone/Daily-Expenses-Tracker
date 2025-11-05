@@ -1,0 +1,10 @@
+# Archivos personales de base de datos
+*.db
+
+# Carpetas de PyInstaller
+dist/
+build/
+*.spec
+
+# Carpetas de caché de Python
+__pycache__/
